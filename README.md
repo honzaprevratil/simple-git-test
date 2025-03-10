@@ -25,6 +25,8 @@
 TODO! Write a dialog between Jan and Tom.
 Jan: Hi, Tom!
 Tom: Hi, Jan!
+Jan: I have a new idea for the project.
+Tom: What is it?
 
 
 
