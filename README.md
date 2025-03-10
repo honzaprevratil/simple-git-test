@@ -29,7 +29,7 @@ Jan: I have a new idea for the project.
 Tom: What is it?
 Jan: I think we should use the new API.
 Tom: What is the new computer (or server)?
-
+Jan: I think we should use the new computer (or server).
 
 
 # Place for describing nature
