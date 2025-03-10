@@ -35,4 +35,5 @@ Tom: What is the new computer (or server)?
 # Place for describing nature
 TODO! Describe the grass, sun, trees, etc.
 - the grass is green
-...
+- the sun is yellow
+- the trees are blue
